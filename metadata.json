@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Code Editor",
+  "description": "A high-performance, mobile-first code editor with syntax highlighting, file management, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
